@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamBohdanDuda
 - 👀 I’m interested in programming, software development and AI
-- 🌱 I’m currently learning Typescript and React Native
+- 🌱 I’m currently learning NestJS
 
 <!---
 iamBohdanDuda/iamBohdanDuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
