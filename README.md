@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamBohdanDuda
-- 👀 I’m interested in programming, software development and AI
+- 👀 I’m interested in software development, cybersecurity and AI
 - 🌱 I’m currently learning NestJS
 
 <!---
