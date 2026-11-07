@@ -30,14 +30,9 @@
   </tr>
   <tr>
     <th><a href="https://github.com/iamBohdanDuda/nurture-ai">nurture-ai</a></th>
-    <td><b>AI-powered pregnancy companion.</b> <i>JavaScript</i></td>
+    <td><b>AI-powered pregnancy companion.</b> <i>TypeScript</i></td>
   </tr>
 </table>
-
-<p align="center">
-  <sub>Every project ships the same way: a README that explains the <i>why</i> and trade-offs,<br>
-  tests, a runnable demo — and the failures that didn't survive, written down too.</sub>
-</p>
 
 ---
 
