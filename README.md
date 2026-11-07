@@ -61,6 +61,8 @@
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img alt="MCP" src="https://img.shields.io/badge/MCP_servers-2E2E2E?style=flat-square">
   <img alt="Asterisk" src="https://img.shields.io/badge/Asterisk_(AGI)-F29400?style=flat-square">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square">
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=flat-square">
 </p>
 
 <p align="center">
